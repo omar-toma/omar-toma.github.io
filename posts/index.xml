@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Welcome to omartoma.me</title>
-    <link>http://example.org/posts/</link>
+    <link>https://omartoma.me/posts/</link>
     <description>Recent content in Posts on Welcome to omartoma.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Mar 2021 20:39:20 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Mar 2021 20:39:20 +0100</lastBuildDate><atom:link href="https://omartoma.me/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ya welcome ya welcome</title>
-      <link>http://example.org/posts/welcome/</link>
+      <link>https://omartoma.me/posts/welcome/</link>
       <pubDate>Thu, 18 Mar 2021 20:39:20 +0100</pubDate>
       
-      <guid>http://example.org/posts/welcome/</guid>
+      <guid>https://omartoma.me/posts/welcome/</guid>
       <description></description>
     </item>
     
